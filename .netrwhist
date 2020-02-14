@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jacob/catkin_ws/src/ORB_SLAM2/include'
+let g:netrw_dirhist_2='/home/jacob/catkin_ws/src/ORB_SLAM2'
+let g:netrw_dirhist_3='/home/jacob/catkin_ws/src/ORB_SLAM2/include'
+let g:netrw_dirhist_4='/home/jacob/.local/share/Steam/userdata/143546707/223810/remote'
+let g:netrw_dirhist_5='/home/jacob/Workspaces'
